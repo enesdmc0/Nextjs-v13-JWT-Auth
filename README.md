@@ -11,7 +11,9 @@
 
 ## About The Project
 
-### Netlify Link :  [https://dmcbookingapp.netlify.app/](https://dmcbookingapp.netlify.app/)
+### Live Link :  [https://nextjs-v13-jwt-auth.vercel.app/](https://nextjs-v13-jwt-auth.vercel.app/)
+  #### username: admin
+  #### password: admin
 
 ### Description 
 
@@ -50,6 +52,6 @@ redirected to the login page.
 
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
-- Project Link: [https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/MERN-BookingApp)
+- Project Link: [https://github.com/enesdmc0/Nextjs-v13-JWT-Auth/]([https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/Nextjs-v13-JWT-Auth/))
 
   
