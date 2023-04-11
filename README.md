@@ -11,16 +11,19 @@
 
 ## About The Project
 
-### Netlify Link :  [https://dmcbookingapp.netlify.app/](https://dmcbookingapp.netlify.app/)
+### Live Link :  [https://nextjs-v13-jwt-auth.vercel.app/](https://nextjs-v13-jwt-auth.vercel.app/)
+  #### username: admin
+  #### password: admin
 
 ### Description 
 
 ```react
 Nextjs v13 Auth login process was done using jose package in the project.
-If the user is not logged in, login to the profile page is blocked and redirected to the login page.
+If the user is not logged in, login to the profile page is blocked and 
+redirected to the login page.
 ```
 
-![Topluluk Tarafından Doğrulandı simgesi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAABDUlEQVR4AYXRgUZDYRjH4TegFTKgpEqiFJgoWAoMEQGBgBboChaaAKxLKAhAhQqAdAmpBIQolkCFqp2nITvNKXuA7+/Hhzey5OWjE4Nq3rzY1f9/NGHPB549492+8Ww060iCS2XdctZdI3GsECmb+HJoIX6x6EgDm+lURTH+YB7V9nAqE5WNme4YKuOiY6iMe6PaQxUUIuTbswgFVNJwA8sO3Bn6yR6bWZMSNtJwDtuWfHpQxaPx9C9zadil7jrCigbq6UXceNIVKTWUIqypm2ytJdTiNyNeXclF6GttOVfeDEc7qzjR23r3OMFqZKng1kw0mXGLrfibHTScOZWgGv9TdC6ROFeMTgwYiIxvJzMRWQbeGZUAAAAASUVORK5CYII=)
+
 
 
 
@@ -49,6 +52,6 @@ If the user is not logged in, login to the profile page is blocked and redirecte
 
 - Linkedin : [https://www.linkedin.com/in/enesdemirci1](https://www.linkedin.com/in/enesdemirci1)
 
-- Project Link: [https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/MERN-BookingApp)
+- Project Link: [https://github.com/enesdmc0/Nextjs-v13-JWT-Auth/]([https://github.com/enesdmc0/MERN-BookingApp](https://github.com/enesdmc0/Nextjs-v13-JWT-Auth/))
 
   
